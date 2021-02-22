@@ -1,4 +1,4 @@
-# Melee-Twitter-Sentiment-Analysis
+# Melee-Twitter-Scraping-Sentiment-Analysis
 
 In this project I analyze 50,000 Tweets scraped from the Melee video game community using Sentiment Analysis with the Natural Language Progrmaming tool VADER. 
 
